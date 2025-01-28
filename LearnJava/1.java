@@ -1,6 +1,6 @@
-class 1
+class randomCode
 {
-	public static void 1()
+	public static void Code()
 	{
 		System.out.println("Assalamualaikum");
 	}
